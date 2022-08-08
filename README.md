@@ -1,5 +1,5 @@
 # RepositoryUnitOfWork
-An ASP.NET C# web mvc application demonstrates using repository and unit of work patterns in Entity Framework Core.
+An ASP.NET C# web mvc application demonstrates The usage of repository and unit of work patterns in Entity Framework Core.
 
 ## The Repository Pattern
 we are able to create the data access logic in a separate class, called a Repository, which has the responsibility of persisting the application’s business model.

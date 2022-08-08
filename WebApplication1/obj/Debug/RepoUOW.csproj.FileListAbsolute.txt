@@ -81,3 +81,5 @@ C:\tmp\RepositoryUnitOfWork\WebApplication1\obj\Debug\RepoUOW.csproj.CoreCompile
 C:\tmp\RepositoryUnitOfWork\WebApplication1\obj\Debug\RepoUOW.csproj.CopyComplete
 C:\tmp\RepositoryUnitOfWork\WebApplication1\obj\Debug\WebApplication1.dll
 C:\tmp\RepositoryUnitOfWork\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\tmp\RepositoryUnitOfWork\WebApplication1\obj\Debug\WebApplication1.Migrations.intDB.resources
+C:\tmp\RepositoryUnitOfWork\WebApplication1\obj\Debug\RepoUOW.csproj.GenerateResource.cache
